@@ -32,3 +32,6 @@ MIT
 # Reformatted
 <!-- commit 20260928233230 -->
 <!-- commit 20260929000939 -->
+## Changelog
+
+- small doc pass, clarified install steps
